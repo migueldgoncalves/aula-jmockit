@@ -16,7 +16,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 
-		<version.junit.junit>4.12</version.junit.junit>
+		<version.junit.junit>4.13.1</version.junit.junit>
 		<version.org.jmockit.jmockit>1.38</version.org.jmockit.jmockit>
 
 		<version.org.slf4j>1.7.12</version.org.slf4j>
